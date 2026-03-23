@@ -60,14 +60,32 @@
 
 ## `// PROJECTS`
 
-```
-┌──────────────────────┬────────────────────────────────────────────────┬──────────┐
-│  REPO                │  DESCRIPTION                                   │  STATUS  │
-├──────────────────────┼────────────────────────────────────────────────┼──────────┤
-│  Lamess              │  Core dotfiles — AGS widgets, Hyprland config  │  WIP     │
-│  mpwall              │  TUI video wallpaper manager (Rust+mpvpaper)   │  ACTIVE  │
-└──────────────────────┴────────────────────────────────────────────────┴──────────┘
-```
+<table>
+<tr>
+<td width="100" align="center">
+<img src="https://raw.githubusercontent.com/Lamess-UI/mpwall/main/public/images/Lamess%20Symbol%20Logo%20Transparent.png" width="60" alt="Lamess Logo" />
+</td>
+<td>
+
+**[Lamess](https://github.com/Lamess-UI/Lamess)** &nbsp; `WIP`
+
+Core dotfiles — AGS widgets, Hyprland config, full desktop environment
+
+</td>
+</tr>
+<tr>
+<td width="100" align="center">
+<img src="https://raw.githubusercontent.com/Lamess-UI/mpwall/main/public/images/mpwall%20Logo%20Transparent.png" width="60" alt="mpwall Logo" />
+</td>
+<td>
+
+**[mpwall](https://github.com/Lamess-UI/mpwall)** &nbsp; `ACTIVE`
+
+TUI video wallpaper manager for Hyprland/Wayland — built with Rust + mpvpaper
+
+</td>
+</tr>
+</table>
 
 <br/>
 
