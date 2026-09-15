@@ -5,17 +5,17 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Lamess-UI/mpwall/main/public/images/Lamess%20Symbol%20Logo%20Transparent.png" width="110" alt="Lamess UI Logo" />
+<img src="https://raw.githubusercontent.com/Lamess-UI/mpwall/main/public/images/Lamess%20Symbol%20Logo%20Transparent.png" width="110" alt="Lamess Logo" />
 
 <br/>
 
 ```
-██╗      █████╗ ███╗   ███╗███████╗███████╗███████╗    ██╗   ██╗██╗
-██║     ██╔══██╗████╗ ████║██╔════╝██╔════╝██╔════╝    ██║   ██║██║
-██║     ███████║██╔████╔██║█████╗  ███████╗███████╗    ██║   ██║██║
-██║     ██╔══██║██║╚██╔╝██║██╔══╝  ╚════██║╚════██║    ██║   ██║██║
-███████╗██║  ██║██║ ╚═╝ ██║███████╗███████║███████║    ╚██████╔╝██║
-╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝╚══════╝╚══════╝     ╚═════╝ ╚═╝
+██╗      █████╗ ███╗   ███╗███████╗███████╗███████╗
+██║     ██╔══██╗████╗ ████║██╔════╝██╔════╝██╔════╝
+██║     ███████║██╔████╔██║█████╗  ███████╗███████╗
+██║     ██╔══██║██║╚██╔╝██║██╔══╝  ╚════██║╚════██║
+███████╗██║  ██║██║ ╚═╝ ██║███████╗███████║███████║
+╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝╚══════╝╚══════╝
 ```
 
 **`> A RETRO CYBERPUNK HYPRLAND DESKTOP ENVIRONMENT_`**
@@ -26,7 +26,7 @@
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│  LAMESS UI  //  SYSTEM INFO                              [●]    │
+│  LAMESS     //  SYSTEM INFO                              [●]    │
 ├─────────────────────────────────────────────────────────────────┤
 │  PLATFORM   : Arch Linux + Hyprland                             │
 │  STYLE      : Retro Cyberpunk Terminal                          │
@@ -37,7 +37,7 @@
 
 ## `// ABOUT`
 
-> Lamess UI is a custom **Hyprland desktop environment** built from scratch.
+> Lamess is a TUI-first **Hyprland desktop environment and tool collection** built from scratch.
 > Minimal. Functional. Terminal-aesthetic. Always dark.
 >
 > Inspired by retro CRT terminals and cyberpunk interfaces —
@@ -119,7 +119,7 @@ TUI video wallpaper manager for Hyprland/Wayland — built with Rust + mpvpaper
 <div align="center">
 
 ```
-[ LAMESS UI ] ── [ BUILT ON ARCH ] ── [ POWERED BY HYPRLAND ]
+[ LAMESS ] ── [ BUILT ON ARCH ] ── [ POWERED BY HYPRLAND ]
 ```
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Lamess-UI&style=flat-square&color=FF6B00)
